@@ -14,7 +14,7 @@ public class ClaseString {
    
     public static void main(String[] args) {
         
-        String s = "yo.com";
+        String s = "nombre1.com";
         // Hola 
       
         System.out.println("Tamaños: " + s.length());
